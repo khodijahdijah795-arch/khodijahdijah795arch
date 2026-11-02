@@ -12,7 +12,7 @@
 <tr><td>Kelas</td><td>: XI TKJ</td></tr>
 <tr><td>Sekolah</td><td>: SMKN 1 Siabu</td></tr>
 <tr><td>Alamat</td><td>: Siabu, Sumatera Utara</td></tr>
-<tr><td>Hobi</td><td>: Belajar Komputer</td></tr>
+<tr><td>Hobi</td><td>: memasak</td></tr>
 </table>
 
 <hr>
